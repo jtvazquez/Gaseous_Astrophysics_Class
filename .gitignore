@@ -1,0 +1,8 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+*.fits
+*.pdf
+data/
+outputs/
+.DS_Store
